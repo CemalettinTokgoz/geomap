@@ -1,7 +1,12 @@
-{"type":"FeatureCollection", "features": [
-{"type":"Feature","geometry":{"type":"Point","coordinates":[11.5794,48.1611]},"properties":{"name":"Gymnasium München Nord","address":"Karl-Theodor-Straße 39, 80803 München"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[11.5833,48.1489]},"properties":{"name":"Ludwigsgymnasium","address":"Ludwigstraße 16, 80539 München"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[11.587,48.1369]},"properties":{"name":"Wilhelmsgymnasium","address":"Thierschstraße 1, 80538 München"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[11.5694,48.1506]},"properties":{"name":"Theresia-Gymnasium","address":"Brienner Str. 50, 80333 München"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[11.5797,48.1639]},"properties":{"name":"Maximiliansgymnasium München","address":"Pündterpl. 5, 80803 München"}}
-]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5761, 48.1371]
+      }
+    }
+  ]
+}
