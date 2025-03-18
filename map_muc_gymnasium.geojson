@@ -5,9 +5,9 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.5761, 48.1371]
+        "coordinates": [12, 48]
       },
-      "properties": {}  // Add this empty properties object
+      "properties": {}
     }
   ]
 }
