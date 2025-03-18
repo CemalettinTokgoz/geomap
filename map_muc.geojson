@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5778, 48.1351]
+      },
+      "properties": {
+        "name": "Marienplatz",
+        "description": "Central square of Munich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5800, 48.1500]
+      },
+      "properties": {
+        "name": "Siegestor",
+        "description": "Victory Arch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [11.55, 48.16],
+            [11.57, 48.16],
+            [11.57, 48.14],
+            [11.55, 48.14],
+            [11.55, 48.16]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Maxvorstadt",
+        "description": "District in central Munich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [11.58, 48.12],
+            [11.60, 48.12],
+            [11.60, 48.10],
+            [11.58, 48.10],
+            [11.58, 48.12]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sendling",
+        "description": "District in south Munich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5942, 48.1309]
+      },
+      "properties": {
+        "name": "Deutsches Museum",
+        "description": "Science and technology museum"
+      }
+    }
+  ]
+}
