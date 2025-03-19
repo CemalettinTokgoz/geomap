@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.583,
+          48.151
+        ]
+      },
+      "properties": {
+        "GmlID": "Ladesäulen.1",
+        "OBJECTID": 1,
+        "Standort": "Schönstr. 126 / Ecke Brehmstraße",
+        "Stadtbezirk": 18,
+        "EVES_ID": "DESWME0383",
+        "Anzahl_Ladepunkte_AC": 2,
+        "Anzahl_Ladepunkte_DC": 0,
+        "Ladeleistung__kW_": 22,
+        "Stellplatzart": "Längsparker",
+        "Stellplatzlage": "in Fahrtrichtung rechts",
+        "Ladesäulenhersteller": "ABL",
+        "Ladesäulenmodell": "null",
+        "Bemerkung": "Stpl.-länge: 4 * 5,0m -\u003e VZ 205 leicht nach Osten versetzen",
+        "MP_ID": null,
+        "Status": 2,
+        "Planungsstatus": 0,
+        "Planungsdatum": "null",
+        "Realisierungsdatum": "null",
+        "Abbaudatum": "null",
+        "Anz._umgewand._Parkplätze": null,
+        "GIS_ID": 905244,
+        "Referenz_zu_Mobilitätspunkt": null,
+        "Referenz_zu_ELS_Standort": 21150,
+        "Name_Ersteller": "null",
+        "Datum_Erstellung": "null",
+        "Name_Bearbeitung": "juergen.schmiele",
+        "Datum_Bearbeitung": "26.04.2024 06:26:14",
+        "GlobalID": "{0FC2D0F1-AAB7-4A13-90B6-B4A4EE947CAD}"
+      }
+    }
+  ]
+}
